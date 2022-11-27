@@ -72,7 +72,7 @@ public class Radnik {
                 "Ime: " + ime +
                 ", Prezime: " + prezime +
                 ", Plaća: " + placa +
-                ", Datum zaposlenja: '" + datum;
+                ", Datum zaposlenja: " + datum;
     }
     public void PovecajPlacu (double postotak){
         double a=postotak/100;
