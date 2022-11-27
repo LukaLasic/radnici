@@ -78,6 +78,7 @@ public class Radnik {
         double a=postotak/100;
         double b=placa*a;
         placa=placa+b;
+        //
     }
 
 
